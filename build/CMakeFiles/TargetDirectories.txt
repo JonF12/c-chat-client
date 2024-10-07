@@ -1,0 +1,3 @@
+/home/jonas/Desktop/Projects/GCC Test/build/CMakeFiles/myapp.dir
+/home/jonas/Desktop/Projects/GCC Test/build/CMakeFiles/edit_cache.dir
+/home/jonas/Desktop/Projects/GCC Test/build/CMakeFiles/rebuild_cache.dir

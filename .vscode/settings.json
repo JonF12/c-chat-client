@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "stdbool.h": "c",
+        "limits.h": "c",
+        "stddef.h": "c",
+        "gtk.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
